@@ -36,3 +36,6 @@ nosetests.xml
 
 # Shell scripts
 *.sh
+
+# test script
+test_send.py
